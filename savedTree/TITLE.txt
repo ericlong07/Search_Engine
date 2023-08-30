@@ -1,0 +1,6 @@
+../sample_data/coll_2/news_0064572.json;BRIEF-Francesca’s Sees Q4 2017 GAAP Earnings Per Share $0.07 To $0.11
+../sample_data/coll_1/news_0064568.json;BRIEF-Strax Ab Result For Period Jan 1 - Dec 31 2017 amounted to 0.03 Euros Per Share​
+../sample_data/coll_2/news_0064571.json;BRIEF-Kewaunee Scientific Q3 Earnings Per Share $0.31
+../sample_data/coll_1/news_0064567.json;German firms doing business in UK gloomy about Brexit - survey
+../sample_data/coll_1/news_0064569.json;European stocks open lower on Powell’s comments; Solvay, Carrefour to report
+../sample_data/coll_2/news_0064570.json;Eaton Vance Closed-End Funds Release Estimated Sources Of Distributions

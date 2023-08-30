@@ -276,6 +276,12 @@ build CMakeFiles/tests.dir/queryEngine.cpp.o: CXX_COMPILER__tests_Debug /Users/e
   OBJECT_DIR = CMakeFiles/tests.dir
   OBJECT_FILE_DIR = CMakeFiles/tests.dir
 
+build CMakeFiles/tests.dir/Porter2Stemmer/porter2_stemmer.cpp.o: CXX_COMPILER__tests_Debug /Users/eric/CLionProjects/Search_Engine/Porter2Stemmer/porter2_stemmer.cpp || cmake_object_order_depends_target_tests
+  DEP_FILE = CMakeFiles/tests.dir/Porter2Stemmer/porter2_stemmer.cpp.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -Wall -Wextra -pedantic -std=gnu++17
+  OBJECT_DIR = CMakeFiles/tests.dir
+  OBJECT_FILE_DIR = CMakeFiles/tests.dir/Porter2Stemmer
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target tests
@@ -284,7 +290,7 @@ build CMakeFiles/tests.dir/queryEngine.cpp.o: CXX_COMPILER__tests_Debug /Users/e
 #############################################
 # Link the executable tests
 
-build tests: CXX_EXECUTABLE_LINKER__tests_Debug CMakeFiles/tests.dir/test.cpp.o CMakeFiles/tests.dir/CountingWord.cpp.o CMakeFiles/tests.dir/indexHandler.cpp.o CMakeFiles/tests.dir/documentParser.cpp.o CMakeFiles/tests.dir/queryEngine.cpp.o
+build tests: CXX_EXECUTABLE_LINKER__tests_Debug CMakeFiles/tests.dir/test.cpp.o CMakeFiles/tests.dir/CountingWord.cpp.o CMakeFiles/tests.dir/indexHandler.cpp.o CMakeFiles/tests.dir/documentParser.cpp.o CMakeFiles/tests.dir/queryEngine.cpp.o CMakeFiles/tests.dir/Porter2Stemmer/porter2_stemmer.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/tests.dir
   POST_BUILD = :
@@ -337,6 +343,12 @@ build CMakeFiles/Search_Engine.dir/queryEngine.cpp.o: CXX_COMPILER__Search_Engin
   OBJECT_DIR = CMakeFiles/Search_Engine.dir
   OBJECT_FILE_DIR = CMakeFiles/Search_Engine.dir
 
+build CMakeFiles/Search_Engine.dir/Porter2Stemmer/porter2_stemmer.cpp.o: CXX_COMPILER__Search_Engine_Debug /Users/eric/CLionProjects/Search_Engine/Porter2Stemmer/porter2_stemmer.cpp || cmake_object_order_depends_target_Search_Engine
+  DEP_FILE = CMakeFiles/Search_Engine.dir/Porter2Stemmer/porter2_stemmer.cpp.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -Wall -Wextra -pedantic -std=gnu++17
+  OBJECT_DIR = CMakeFiles/Search_Engine.dir
+  OBJECT_FILE_DIR = CMakeFiles/Search_Engine.dir/Porter2Stemmer
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Search_Engine
@@ -345,7 +357,7 @@ build CMakeFiles/Search_Engine.dir/queryEngine.cpp.o: CXX_COMPILER__Search_Engin
 #############################################
 # Link the executable Search_Engine
 
-build Search_Engine: CXX_EXECUTABLE_LINKER__Search_Engine_Debug CMakeFiles/Search_Engine.dir/main.cpp.o CMakeFiles/Search_Engine.dir/searchEngine.cpp.o CMakeFiles/Search_Engine.dir/indexHandler.cpp.o CMakeFiles/Search_Engine.dir/CountingWord.cpp.o CMakeFiles/Search_Engine.dir/documentParser.cpp.o CMakeFiles/Search_Engine.dir/queryEngine.cpp.o
+build Search_Engine: CXX_EXECUTABLE_LINKER__Search_Engine_Debug CMakeFiles/Search_Engine.dir/main.cpp.o CMakeFiles/Search_Engine.dir/searchEngine.cpp.o CMakeFiles/Search_Engine.dir/indexHandler.cpp.o CMakeFiles/Search_Engine.dir/CountingWord.cpp.o CMakeFiles/Search_Engine.dir/documentParser.cpp.o CMakeFiles/Search_Engine.dir/queryEngine.cpp.o CMakeFiles/Search_Engine.dir/Porter2Stemmer/porter2_stemmer.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/Search_Engine.dir
   POST_BUILD = :

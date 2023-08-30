@@ -17,6 +17,6 @@ target_include_directories(rapidJSONExample PRIVATE rapidjson/)
 set(CMAKE_VERBOSE_MAKEFILE OFF)
 
 include(CTest)
-add_executable(tests test.cpp CountingWord.cpp indexHandler.cpp documentParser.cpp queryEngine.cpp)
-add_executable(Search_Engine main.cpp searchEngine.cpp indexHandler.cpp CountingWord.cpp documentParser.cpp queryEngine.cpp)
+add_executable(tests test.cpp CountingWord.cpp indexHandler.cpp documentParser.cpp queryEngine.cpp Porter2Stemmer/porter2_stemmer.cpp)
+add_executable(Search_Engine main.cpp searchEngine.cpp indexHandler.cpp CountingWord.cpp documentParser.cpp queryEngine.cpp Porter2Stemmer/porter2_stemmer.cpp)
 add_test(NAME SimpleTest COMMAND tests)

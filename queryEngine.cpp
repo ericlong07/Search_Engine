@@ -4,7 +4,7 @@
 #include "AVLTree.h"
 #include <string>
 #include <vector>
-//#include "porter2_stemmer.h"
+#include "Porter2Stemmer/porter2_stemmer.h"
 
 using namespace std;
 
@@ -81,8 +81,8 @@ void queryEngine::process(string input) {
         // removedKEYWORDs
         if (words[i][0] == '-') {
             string stemmedword = words[i].substr(1,words[i].length() - 1);
-//            Porter2Stemmer::trim(stemmedword);
-//            Porter2Stemmer::stem(stemmedword);
+            Porter2Stemmer::trim(stemmedword);
+            Porter2Stemmer::stem(stemmedword);
             removedKEYWORDs.push_back(stemmedword);
             continue;
         }
@@ -101,8 +101,8 @@ void queryEngine::process(string input) {
 
         // KEYWORDs
         string stemmedword = words[i];
-//        Porter2Stemmer::trim(stemmedword);
-//        Porter2Stemmer::stem(stemmedword);
+        Porter2Stemmer::trim(stemmedword);
+        Porter2Stemmer::stem(stemmedword);
         KEYWORDs.push_back(stemmedword);
     }
 }

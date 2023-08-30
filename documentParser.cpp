@@ -1,7 +1,7 @@
 #include "documentParser.h"
 #include "rapidjson/istreamwrapper.h"
 #include "rapidjson/document.h"
-//#include "porter2_stemmer.h"
+#include "Porter2Stemmer/porter2_stemmer.h"
 #include <vector>
 #include <algorithm>
 #include <string>

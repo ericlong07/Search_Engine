@@ -8,7 +8,7 @@
 #include "indexHandler.h"
 #include "queryEngine.h"
 #include "documentParser.h"
-// #include "porter2_stemmer.h"
+#include "Porter2Stemmer/porter2_stemmer.h"
 
 TEST_CASE("Check that AVLTree works", "[AVLTree]")
 {
@@ -106,88 +106,89 @@ myTree.prettyPrintTree();
 cout << "NewTree" << endl;
 newTree.prettyPrintTree();
 }
-//TEST_CASE("Perform fake search", "[indexHandler]")
-//{
-//// Let's perform a simple, fake search
-//indexHandler* handler = new indexHandler;
-//
-//// document parser
-//documentParser parser(handler);
-//parser.read("../sample_data");
-//queryEngine engine(handler);
-//engine.parser = &parser;
-//
-//string input = "planning -ORG:eu -PERSON:phillip j tyler";
-//vector<CountingWord> output = engine.query(input);
-//REQUIRE(output.size() == 1);
-//REQUIRE(output[0].word == "../sample_data/coll_2/news_0064570.json");
-//
-//input = "planning ORG:eu -PERSON:phillip j tyler -ORG:space x ";
-//output = engine.query(input);
-//REQUIRE(output.size() == 1);
-//REQUIRE(output[0].word == "../sample_data/coll_1/news_0064567.json");
-//
-//input = "planning";
-//output = engine.query(input);
-//REQUIRE(output.size() == 2);
-//
-////TESTING PERSISTENCE
-//
-//string desiredDirectory = "../savedTree";
-//// directory for total maps
-//string mapORGDirectory = desiredDirectory + "/totalORG.txt";
-//string mapPERSONDirectory = desiredDirectory + "/totalPERSON.txt";
-//string mapKEYWORDDirectory = desiredDirectory + "/totalKEYWORD.txt";
-//// directory for article info maps
-//string titleDirectory = desiredDirectory + "/TITLE.txt";
-//string authorDirectory = desiredDirectory + "/AUTHOR.txt";
-//string dateDirectory = desiredDirectory + "/DATE.txt";
-//
-//vector<string> directories;
-//directories.push_back(mapORGDirectory);
-//directories.push_back(mapPERSONDirectory);
-//directories.push_back(mapKEYWORDDirectory);
-//directories.push_back(titleDirectory);
-//directories.push_back(authorDirectory);
-//directories.push_back(dateDirectory);
-//
-//// add total hash maps to vector
-//vector<unordered_map<string, int>> totalMaps;
-//totalMaps.push_back(handler->totalORGs);
-//totalMaps.push_back(handler->totalPERSONs);
-//totalMaps.push_back(handler->totalKEYWORDs);
-//// add article info hash maps to vector
-//vector<unordered_map<string, string>> infoMaps;
-//infoMaps.push_back(handler->titles);
-//infoMaps.push_back(handler->authors);
-//infoMaps.push_back(handler->dates);
-//
-//handler->saveMaps(totalMaps, infoMaps, directories);
-//
-//
-//indexHandler* newhandler = new indexHandler;
-//// add total hash maps to vector
-//vector<unordered_map<string, int>*> totalMapsP;
-//totalMapsP.push_back(& newhandler->totalORGs);
-//totalMapsP.push_back(& newhandler->totalPERSONs);
-//totalMapsP.push_back(& newhandler->totalKEYWORDs);
-//// add article info hash maps to vector
-//vector<unordered_map<string, string>*> infoMapsP;
-//infoMapsP.push_back(& newhandler->titles);
-//infoMapsP.push_back(& newhandler->authors);
-//infoMapsP.push_back(& newhandler->dates);
-//
-//newhandler->loadMaps(totalMapsP, infoMapsP, directories);
-//
-//REQUIRE(handler->totalKEYWORDs.size() == newhandler->totalKEYWORDs.size());
-//REQUIRE(handler->totalPERSONs.size() == newhandler->totalPERSONs.size());
-//REQUIRE(handler->totalORGs.size() == newhandler->totalORGs.size());
-//REQUIRE(handler->totalORGs.at("../sample_data/coll_2/news_0064570.json") == newhandler->totalORGs.at("../sample_data/coll_2/news_0064570.json"));
-//REQUIRE(handler->dates.at("../sample_data/coll_2/news_0064570.json") == newhandler->dates.at("../sample_data/coll_2/news_0064570.json"));
-//REQUIRE(handler->titles.at("../sample_data/coll_2/news_0064570.json") == newhandler->titles.at("../sample_data/coll_2/news_0064570.json"));
-//
-//delete handler;
-//handler = nullptr;
-//delete newhandler;
-//newhandler = nullptr;
-//}
+
+TEST_CASE("Perform fake search", "[indexHandler]")
+{
+// Let's perform a simple, fake search
+indexHandler* handler = new indexHandler;
+
+// document parser
+documentParser parser(handler);
+parser.read("../sample_data");
+queryEngine engine(handler);
+engine.parser = &parser;
+
+string input = "planning -ORG:eu -PERSON:phillip j tyler";
+vector<CountingWord> output = engine.query(input);
+REQUIRE(output.size() == 1);
+REQUIRE(output[0].word == "../sample_data/coll_2/news_0064570.json");
+
+input = "planning ORG:eu -PERSON:phillip j tyler -ORG:space x ";
+output = engine.query(input);
+REQUIRE(output.size() == 1);
+REQUIRE(output[0].word == "../sample_data/coll_1/news_0064567.json");
+
+input = "planning";
+output = engine.query(input);
+REQUIRE(output.size() == 2);
+
+//TESTING PERSISTENCE
+
+string desiredDirectory = "../savedTree";
+// directory for total maps
+string mapORGDirectory = desiredDirectory + "/totalORG.txt";
+string mapPERSONDirectory = desiredDirectory + "/totalPERSON.txt";
+string mapKEYWORDDirectory = desiredDirectory + "/totalKEYWORD.txt";
+// directory for article info maps
+string titleDirectory = desiredDirectory + "/TITLE.txt";
+string authorDirectory = desiredDirectory + "/AUTHOR.txt";
+string dateDirectory = desiredDirectory + "/DATE.txt";
+
+vector<string> directories;
+directories.push_back(mapORGDirectory);
+directories.push_back(mapPERSONDirectory);
+directories.push_back(mapKEYWORDDirectory);
+directories.push_back(titleDirectory);
+directories.push_back(authorDirectory);
+directories.push_back(dateDirectory);
+
+// add total hash maps to vector
+vector<unordered_map<string, int>> totalMaps;
+totalMaps.push_back(handler->totalORGs);
+totalMaps.push_back(handler->totalPERSONs);
+totalMaps.push_back(handler->totalKEYWORDs);
+// add article info hash maps to vector
+vector<unordered_map<string, string>> infoMaps;
+infoMaps.push_back(handler->titles);
+infoMaps.push_back(handler->authors);
+infoMaps.push_back(handler->dates);
+
+handler->saveMaps(totalMaps, infoMaps, directories);
+
+
+indexHandler* newhandler = new indexHandler;
+// add total hash maps to vector
+vector<unordered_map<string, int>*> totalMapsP;
+totalMapsP.push_back(& newhandler->totalORGs);
+totalMapsP.push_back(& newhandler->totalPERSONs);
+totalMapsP.push_back(& newhandler->totalKEYWORDs);
+// add article info hash maps to vector
+vector<unordered_map<string, string>*> infoMapsP;
+infoMapsP.push_back(& newhandler->titles);
+infoMapsP.push_back(& newhandler->authors);
+infoMapsP.push_back(& newhandler->dates);
+
+newhandler->loadMaps(totalMapsP, infoMapsP, directories);
+
+REQUIRE(handler->totalKEYWORDs.size() == newhandler->totalKEYWORDs.size());
+REQUIRE(handler->totalPERSONs.size() == newhandler->totalPERSONs.size());
+REQUIRE(handler->totalORGs.size() == newhandler->totalORGs.size());
+REQUIRE(handler->totalORGs.at("../sample_data/coll_2/news_0064570.json") == newhandler->totalORGs.at("../sample_data/coll_2/news_0064570.json"));
+REQUIRE(handler->dates.at("../sample_data/coll_2/news_0064570.json") == newhandler->dates.at("../sample_data/coll_2/news_0064570.json"));
+REQUIRE(handler->titles.at("../sample_data/coll_2/news_0064570.json") == newhandler->titles.at("../sample_data/coll_2/news_0064570.json"));
+
+delete handler;
+handler = nullptr;
+delete newhandler;
+newhandler = nullptr;
+}

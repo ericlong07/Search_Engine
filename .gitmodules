@@ -1,0 +1,3 @@
+[submodule "Porter2Stemmer"]
+	path = Porter2Stemmer
+	url = https://github.com/ericlong07/Porter2Stemmer.git

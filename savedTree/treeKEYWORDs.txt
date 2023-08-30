@@ -1,0 +1,1058 @@
+at ^22^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+markets, ^1^../sample_data/coll_1/news_0064567.json
+rates.^1^../sample_data/coll_1/news_0064569.json
+that ^7^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+to ^35^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+when ^1^../sample_data/coll_2/news_0064570.json
+would ^1^../sample_data/coll_1/news_0064567.json
+‍FOR ^1^../sample_data/coll_2/news_0064572.json
+“In ^1^../sample_data/coll_1/news_0064567.json
+“That ^1^../sample_data/coll_1/news_0064567.json
+“a ^1^../sample_data/coll_1/news_0064567.json
+‍NOW ^1^../sample_data/coll_2/news_0064572.json
+‍REAFFIRMS ^1^../sample_data/coll_2/news_0064572.json
+‍GROUP‘S ^2^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json
+year. ^1^../sample_data/coll_2/news_0064570.json
+you. ^1^../sample_data/coll_2/news_0064570.json
+your ^1^../sample_data/coll_2/news_0064570.json
+you ^4^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+year ^27^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json
+year-to-date ^1^../sample_data/coll_2/news_0064570.json
+with ^7^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+worse ^1^../sample_data/coll_1/news_0064567.json
+will ^4^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json
+who ^1^../sample_data/coll_1/news_0064567.json
+which ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+two ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+upon ^1^../sample_data/coll_2/news_0064570.json
+warn ^1^../sample_data/coll_1/news_0064567.json
+were ^1^../sample_data/coll_1/news_0064567.json
+value ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+unclear ^1^../sample_data/coll_1/news_0064567.json
+unsettling ^1^../sample_data/coll_1/news_0064567.json
+union ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+uk^1^../sample_data/coll_1/news_0064567.json
+trade ^3^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+total ^23^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+today ^1^../sample_data/coll_2/news_0064570.json
+therefore, ^1^../sample_data/coll_2/news_0064570.json
+this ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json
+through ^11^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+those ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json
+these ^1^../sample_data/coll_2/news_0064570.json
+their ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+there, ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+the ^95^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+the
+distributions ^1^../sample_data/coll_2/news_0064570.json
+report^1^../sample_data/coll_1/news_0064569.json
+share. ^1^../sample_data/coll_2/news_0064570.json
+survey ^1^../sample_data/coll_1/news_0064567.json
+tax ^5^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+terms ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+than ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json
+text ^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json
+tell ^1^../sample_data/coll_2/news_0064570.json
+swift ^1^../sample_data/coll_1/news_0064567.json
+tables ^1^../sample_data/coll_2/news_0064570.json
+tariffs ^1^../sample_data/coll_1/news_0064567.json
+sword ^1^../sample_data/coll_1/news_0064567.json
+survey, ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+surveyed ^1^../sample_data/coll_1/news_0064567.json
+stated ^1^../sample_data/coll_2/news_0064570.json
+subject ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+survey^1^../sample_data/coll_1/news_0064567.json
+such ^1^../sample_data/coll_1/news_0064567.json
+stocks ^2^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json
+strengthened.”
+Britain’s ^1^../sample_data/coll_1/news_0064567.json
+staying ^1^../sample_data/coll_1/news_0064567.json
+still ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+statement. ^1^../sample_data/coll_1/news_0064567.json
+showed ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+soon ^1^../sample_data/coll_1/news_0064567.json
+sources ^5^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+some ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+should ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+shareholders, ^1^../sample_data/coll_2/news_0064570.json
+risk,” ^1^../sample_data/coll_1/news_0064567.json
+share
+$0.0843
+100.00%
+$0.3372
+100.0%
+Average ^1^../sample_data/coll_2/news_0064570.json
+share
+$0.1080
+100.00%
+$0.2160
+100.00%
+Average ^1^../sample_data/coll_2/news_0064570.json
+share
+$0.1450
+100.00%
+$0.8700
+100.00%
+Average ^1^../sample_data/coll_2/news_0064570.json
+share
+$0.1800
+100.00%
+$0.7200
+100.00%
+Average ^1^../sample_data/coll_2/news_0064570.json
+share
+$0.1108
+100.00%
+$0.2216
+100.00%
+Average ^1^../sample_data/coll_2/news_0064570.json
+share
+$0.0875
+100.00%
+$0.1750
+100.00%
+Average ^1^../sample_data/coll_2/news_0064570.json
+share
+$0.0910
+100.00%
+$0.1820
+100.00%
+Average ^1^../sample_data/coll_2/news_0064570.json
+share
+$0.0864
+100.00%
+$0.4320
+100.00%
+Average ^1^../sample_data/coll_2/news_0064570.json
+sellout ^1^../sample_data/coll_1/news_0064567.json
+share
+$0.0760
+100.00%
+$0.1520
+100.00%
+Average ^1^../sample_data/coll_2/news_0064570.json
+share
+$0.0760
+100.00%
+$0.3040
+100.00%
+Average ^1^../sample_data/coll_2/news_0064570.json
+sent ^1^../sample_data/coll_2/news_0064570.json
+set ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json
+send ^1^../sample_data/coll_2/news_0064570.json
+said, ^1^../sample_data/coll_1/news_0064567.json
+said ^1^../sample_data/coll_1/news_0064567.json
+represents ^1^../sample_data/coll_2/news_0064570.json
+responded, ^1^../sample_data/coll_1/news_0064567.json
+rising ^1^../sample_data/coll_1/news_0064567.json
+risk ^1^../sample_data/coll_1/news_0064567.json
+return ^25^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+result ^1^../sample_data/coll_2/news_0064570.json
+required ^1^../sample_data/coll_2/news_0064570.json
+reported ^1^../sample_data/coll_2/news_0064570.json
+reporting ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+report ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064569.json
+reinvested, ^1^../sample_data/coll_2/news_0064570.json
+released ^1^../sample_data/coll_2/news_0064570.json
+remaining ^1^../sample_data/coll_1/news_0064567.json
+remainder ^1^../sample_data/coll_2/news_0064570.json
+relationship ^1^../sample_data/coll_1/news_0064567.json
+release ^1^../sample_data/coll_2/news_0064570.json
+relating ^1^../sample_data/coll_2/news_0064570.json
+relations,” ^1^../sample_data/coll_1/news_0064567.json
+reinvestment ^1^../sample_data/coll_2/news_0064570.json
+received ^1^../sample_data/coll_2/news_0064570.json
+regular ^1^../sample_data/coll_2/news_0064570.json
+regulations. ^1^../sample_data/coll_2/news_0064570.json
+reflect ^1^../sample_data/coll_2/news_0064570.json
+reference ^1^../sample_data/coll_1/news_0064567.json
+realized ^1^../sample_data/coll_2/news_0064570.json
+plan ^1^../sample_data/coll_2/news_0064570.json
+purposes ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+quarterly, ^1^../sample_data/coll_2/news_0064570.json
+rate ^23^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+purposes.
+The ^1^../sample_data/coll_2/news_0064570.json
+purposes. ^1^../sample_data/coll_2/news_0064570.json
+press ^1^../sample_data/coll_2/news_0064570.json
+prospects ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+provided ^1^../sample_data/coll_2/news_0064570.json
+prospect ^1^../sample_data/coll_1/news_0064567.json
+possible.
+FILE ^1^../sample_data/coll_1/news_0064567.json
+post-Brexit ^1^../sample_data/coll_1/news_0064567.json
+political ^1^../sample_data/coll_1/news_0064567.json
+pose ^1^../sample_data/coll_1/news_0064567.json
+position ^1^../sample_data/coll_1/news_0064567.json
+portion ^1^../sample_data/coll_2/news_0064570.json
+planning ^1^../sample_data/coll_1/news_0064567.json
+points ^1^../sample_data/coll_1/news_0064567.json
+planned ^1^../sample_data/coll_1/news_0064567.json
+other ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+perceiving ^1^../sample_data/coll_1/news_0064567.json
+period ^14^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+picture ^1^../sample_data/coll_1/news_0064567.json
+pessimistic ^1^../sample_data/coll_1/news_0064567.json
+periods.
+Eaton ^1^../sample_data/coll_2/news_0064570.json
+percentage ^23^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+performance ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+percent ^4^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+paid ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+per ^21^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+parties.
+Writing ^1^../sample_data/coll_1/news_0064567.json
+over ^1^../sample_data/coll_1/news_0064567.json
+out ^1^../sample_data/coll_1/news_0064567.json
+outside ^1^../sample_data/coll_1/news_0064567.json
+our ^1^../sample_data/coll_1/news_0064567.json
+occur ^1^../sample_data/coll_2/news_0064570.json
+or ^15^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+order ^1^../sample_data/coll_2/news_0064570.json
+original ^1^../sample_data/coll_2/news_0064570.json
+open ^3^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json
+operations ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+operating ^1^../sample_data/coll_1/news_0064567.json
+one ^1^../sample_data/coll_1/news_0064567.json
+only ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+on ^19^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+of ^117^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+minister ^1^../sample_data/coll_1/news_0064567.json
+more ^1^../sample_data/coll_2/news_0064570.json
+net ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+note ^1^../sample_data/coll_2/news_0064570.json
+notice ^1^../sample_data/coll_2/news_0064570.json
+now, ^1^../sample_data/coll_1/news_0064567.json
+noted ^1^../sample_data/coll_2/news_0064570.json
+no ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+not ^5^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+new ^1^../sample_data/coll_1/news_0064567.json
+must ^1^../sample_data/coll_1/news_0064567.json
+national ^1^../sample_data/coll_1/news_0064567.json
+necessarily ^1^../sample_data/coll_2/news_0064570.json
+my ^1^../sample_data/coll_1/news_0064567.json
+move ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+morning ^1^../sample_data/coll_1/news_0064569.json
+money ^1^../sample_data/coll_2/news_0064570.json
+monthly ^1^../sample_data/coll_2/news_0064570.json
+measured ^1^../sample_data/coll_2/news_0064570.json
+menacingly ^1^../sample_data/coll_1/news_0064567.json
+members ^1^../sample_data/coll_1/news_0064567.json
+may ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+following ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064569.json
+has ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json
+internal ^1^../sample_data/coll_1/news_0064567.json
+leave ^1^../sample_data/coll_1/news_0064567.json
+managed ^1^../sample_data/coll_2/news_0064570.json
+many ^1^../sample_data/coll_1/news_0064567.json
+market ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json
+listed ^1^../sample_data/coll_2/news_0064570.json
+main ^1^../sample_data/coll_1/news_0064567.json
+make ^1^../sample_data/coll_2/news_0064570.json
+lower ^3^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json
+levies ^1^../sample_data/coll_1/news_0064567.json
+it ^1^../sample_data/coll_2/news_0064570.json
+key ^1^../sample_data/coll_1/news_0064567.json
+layers ^1^../sample_data/coll_1/news_0064567.json
+leaders ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+just ^1^../sample_data/coll_1/news_0064567.json
+its ^7^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+involvement ^1^../sample_data/coll_1/news_0064567.json
+issued ^1^../sample_data/coll_2/news_0064570.json
+issues ^1^../sample_data/coll_1/news_0064567.json
+is ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+investment ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+investments ^1^../sample_data/coll_1/news_0064567.json
+invested ^1^../sample_data/coll_2/news_0064570.json
+into ^1^../sample_data/coll_1/news_0064567.json
+information ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+interests.”
+The ^1^../sample_data/coll_1/news_0064567.json
+interest ^1^../sample_data/coll_1/news_0064569.json
+informational ^1^../sample_data/coll_2/news_0064570.json
+including ^1^../sample_data/coll_1/news_0064567.json
+income ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+increase ^1^../sample_data/coll_1/news_0064569.json
+implementation ^1^../sample_data/coll_2/news_0064570.json
+improvement ^1^../sample_data/coll_1/news_0064567.json
+in ^18^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+how ^1^../sample_data/coll_2/news_0064570.json
+http://www.prnewswire.com/news-releases/eaton-vance-closed-end-funds-release-estimated-sources-of-distributions-300605870.html
+SOURCE ^1^../sample_data/coll_2/news_0064570.json
+he ^1^../sample_data/coll_1/news_0064567.json
+from ^7^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064567.json
+government ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+group ^1^../sample_data/coll_1/news_0064567.json
+half ^1^../sample_data/coll_1/news_0064567.json
+hangs ^1^../sample_data/coll_1/news_0064567.json
+gradual ^1^../sample_data/coll_1/news_0064569.json
+future ^1^../sample_data/coll_1/news_0064567.json
+germany^1^../sample_data/coll_1/news_0064567.json
+gloomy ^1^../sample_data/coll_1/news_0064567.json
+gains; ^1^../sample_data/coll_2/news_0064570.json
+funds ^1^../sample_data/coll_2/news_0064570.json
+further ^1^../sample_data/coll_1/news_0064567.json
+forth ^1^../sample_data/coll_2/news_0064570.json
+for ^59^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+each ^8^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+expressed ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+firms ^4^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+fiscal ^25^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+fixed ^1^../sample_data/coll_2/news_0064570.json
+federal ^1^../sample_data/coll_2/news_0064570.json
+external ^1^../sample_data/coll_1/news_0064567.json
+factors.
+IMPORTANT ^1^../sample_data/coll_2/news_0064570.json
+extent ^1^../sample_data/coll_1/news_0064567.json
+example, ^1^../sample_data/coll_2/news_0064570.json
+expected ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+expecting ^1^../sample_data/coll_1/news_0064567.json
+experience ^1^../sample_data/coll_2/news_0064570.json
+exemptive ^1^../sample_data/coll_2/news_0064570.json
+estimate ^1^../sample_data/coll_2/news_0064570.json
+estimates ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+estimation, ^1^../sample_data/coll_1/news_0064567.json
+exact ^1^../sample_data/coll_1/news_0064567.json
+estimated ^1^../sample_data/coll_2/news_0064570.json
+ended ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+equities ^1^../sample_data/coll_1/news_0064569.json
+ensure ^1^../sample_data/coll_1/news_0064567.json
+emerged ^1^../sample_data/coll_1/news_0064567.json
+ended
+on ^1^../sample_data/coll_2/news_0064570.json
+elsewhere ^1^../sample_data/coll_1/news_0064567.json
+economic ^1^../sample_data/coll_1/news_0064567.json
+common ^13^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json
+current ^11^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+distribution ^29^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+does ^1^../sample_data/coll_2/news_0064570.json
+dollar ^1^../sample_data/coll_2/news_0064570.json
+due ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+during ^1^../sample_data/coll_2/news_0064570.json
+draw ^1^../sample_data/coll_2/news_0064570.json
+doing ^1^../sample_data/coll_1/news_0064567.json
+distributions.
+4 ^1^../sample_data/coll_2/news_0064570.json
+distributions ^8^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+distribution. ^1^../sample_data/coll_2/news_0064570.json
+determinative ^1^../sample_data/coll_2/news_0064570.json
+director-general ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+distributed ^1^../sample_data/coll_2/news_0064570.json
+deal ^1^../sample_data/coll_1/news_0064567.json
+depend ^1^../sample_data/coll_2/news_0064570.json
+deterioration. ^1^../sample_data/coll_1/news_0064567.json
+departure ^1^../sample_data/coll_1/news_0064567.json
+date ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+customs ^3^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+content: ^1^../sample_data/coll_2/news_0064570.json
+countries ^1^../sample_data/coll_1/news_0064567.json
+coverage:
+ ^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json
+cumulative ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+country ^1^../sample_data/coll_1/news_0064567.json
+costs ^1^../sample_data/coll_1/news_0064567.json
+contention ^1^../sample_data/coll_1/news_0064567.json
+conclusions ^1^../sample_data/coll_2/news_0064570.json
+confused ^1^../sample_data/coll_2/news_0064570.json
+consequences ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+conditions ^1^../sample_data/coll_2/news_0064570.json
+company ^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json
+calendar ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+character ^1^../sample_data/coll_2/news_0064570.json
+comments; ^2^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json
+committing ^1^../sample_data/coll_1/news_0064569.json
+closed-end ^1^../sample_data/coll_2/news_0064570.json
+comments ^1^../sample_data/coll_1/news_0064569.json
+clarity ^1^../sample_data/coll_1/news_0064567.json
+certain ^1^../sample_data/coll_2/news_0064570.json
+change.
+“Almost ^1^../sample_data/coll_1/news_0064567.json
+changes ^1^../sample_data/coll_2/news_0064570.json
+change ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+capital. ^1^../sample_data/coll_2/news_0064570.json
+cash ^1^../sample_data/coll_2/news_0064570.json
+capital ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+calling ^1^../sample_data/coll_1/news_0064567.json
+boston^1^../sample_data/coll_2/news_0064570.json
+businesses ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+by ^4^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+calculable ^1^../sample_data/coll_1/news_0064567.json
+businesses.”
+The ^1^../sample_data/coll_1/news_0064567.json
+bureaucracy.
+“In ^1^../sample_data/coll_1/news_0064567.json
+business ^3^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+britain^1^../sample_data/coll_1/news_0064567.json
+brexit^1^../sample_data/coll_1/news_0064567.json
+berlin^1^../sample_data/coll_1/news_0064567.json
+binds ^1^../sample_data/coll_1/news_0064567.json
+bloc ^1^../sample_data/coll_1/news_0064567.json
+between ^1^../sample_data/coll_1/news_0064567.json
+bilateral ^1^../sample_data/coll_1/news_0064567.json
+before ^1^../sample_data/coll_1/news_0064567.json
+below ^1^../sample_data/coll_2/news_0064570.json
+below, ^1^../sample_data/coll_2/news_0064570.json
+beginning ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+being ^1^../sample_data/coll_2/news_0064570.json
+based ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+be ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+back ^1^../sample_data/coll_2/news_0064570.json
+barely ^1^../sample_data/coll_1/news_0064567.json
+attributed ^1^../sample_data/coll_1/news_0064567.json
+PER ^5^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json
+SHARE ^4^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json
+The ^5^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+amount ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+annualized ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+approved ^1^../sample_data/coll_2/news_0064570.json
+as ^50^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+asset ^1^../sample_data/coll_2/news_0064570.json
+assuming ^1^../sample_data/coll_2/news_0064570.json
+arrive ^1^../sample_data/coll_1/news_0064567.json
+are ^5^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+appealed ^1^../sample_data/coll_1/news_0064567.json
+any ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json
+and ^18^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+annual ^11^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+and/or ^1^../sample_data/coll_2/news_0064570.json
+amounts ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+an ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json
+amounted ^1^../sample_data/coll_1/news_0064568.json
+about ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+all ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+already ^1^../sample_data/coll_1/news_0064567.json
+also ^1^../sample_data/coll_1/news_0064567.json
+adding:
+FILE ^1^../sample_data/coll_1/news_0064567.json
+after ^1^../sample_data/coll_1/news_0064567.json
+addition ^1^../sample_data/coll_1/news_0064567.json
+added ^1^../sample_data/coll_1/news_0064567.json
+actual ^1^../sample_data/coll_2/news_0064570.json
+accounting ^1^../sample_data/coll_2/news_0064570.json
+Tuesday.
+The ^1^../sample_data/coll_1/news_0064567.json
+YEAR ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+Year-to-Date
+Net ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+You ^1^../sample_data/coll_2/news_0064570.json
+a ^44^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Year-to-Date
+% ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Year ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+UPDATE ^1^../sample_data/coll_2/news_0064572.json
+Vance ^13^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Wednesday ^1^../sample_data/coll_1/news_0064569.json
+VIEW ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+U.S. ^1^../sample_data/coll_2/news_0064570.json
+UK ^1^../sample_data/coll_1/news_0064567.json
+Trustees ^1^../sample_data/coll_2/news_0064570.json
+Tuesday ^1^../sample_data/coll_1/news_0064567.json
+To ^1^../sample_data/coll_2/news_0064572.json
+This ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Source(s)
+$0.0000
+0.00%
+$0.0000
+0.00%
+Total ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Sources ^1^../sample_data/coll_2/news_0064570.json
+THIRD ^1^../sample_data/coll_2/news_0064571.json
+TO ^7^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json
+Tax-Advantaged ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Tax-Managed ^5^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+THOMSON ^1^../sample_data/coll_2/news_0064572.json
+Street, ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+TAX ^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+Strax ^1^../sample_data/coll_1/news_0064568.json
+Source(s)
+$0.0729
+96.00%
+$0.1457
+95.90%
+Total ^1^../sample_data/coll_2/news_0064570.json
+Source(s)
+$0.0972
+90.00%
+$0.1944
+90.00%
+Total ^1^../sample_data/coll_2/news_0064570.json
+Source(s)
+$0.1051
+94.90%
+$0.2100
+94.80%
+Total ^1^../sample_data/coll_2/news_0064570.json
+Source(s)
+$0.0831
+91.30%
+$0.1667
+91.60%
+Total ^1^../sample_data/coll_2/news_0064570.json
+Source(s)
+$0.0795
+94.30%
+$0.3145
+93.3%
+Total ^1^../sample_data/coll_2/news_0064570.json
+Source(s)
+$0.0000
+0.00%
+$0.2030
+47.00%
+Total ^1^../sample_data/coll_2/news_0064570.json
+Source(s)
+$0.0708
+93.10%
+$0.2858
+94.00%
+Total ^1^../sample_data/coll_2/news_0064570.json
+Share:
+$0.0875
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+Short-Term ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Solvay, ^2^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json
+Source ^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json
+Share:
+$0.1450
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+Shareholders ^1^../sample_data/coll_2/news_0064570.json
+Share​^1^../sample_data/coll_1/news_0064568.json
+Share:
+$0.1800
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+Share:
+$0.1108
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+Share:
+$0.1080
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+Share:
+$0.0910
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+Share ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json
+Share:
+$0.0864
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+Share:
+$0.0843
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+Share:
+$0.0760
+Distribution ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Scientific ^2^../sample_data/coll_2/news_0064571.json^../sample_data/coll_2/news_0064571.json
+Securities ^1^../sample_data/coll_2/news_0064570.json
+Sees ^1^../sample_data/coll_2/news_0064572.json
+Schweitzer ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Schweitzer, ^1^../sample_data/coll_1/news_0064567.json
+SHARE​ ^1^../sample_data/coll_1/news_0064568.json
+Q3 ^3^../sample_data/coll_2/news_0064571.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_2/news_0064571.json
+REUTERS ^1^../sample_data/coll_2/news_0064572.json
+Result ^1^../sample_data/coll_1/news_0064568.json
+SALES​ ^1^../sample_data/coll_2/news_0064572.json
+SCIENTIFIC ^1^../sample_data/coll_2/news_0064571.json
+SEES ^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+SAYS ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+Risk-Managed ^1^../sample_data/coll_2/news_0064570.json
+SALES ^5^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json
+Realized ^20^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Release ^1^../sample_data/coll_2/news_0064570.json
+REVENUE ^1^../sample_data/coll_2/news_0064572.json
+ROSE ^1^../sample_data/coll_2/news_0064571.json
+REUTERS/Peter ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+REPORTS ^1^../sample_data/coll_2/news_0064571.json
+RESULT ^1^../sample_data/coll_1/news_0064568.json
+RESULTS ^1^../sample_data/coll_2/news_0064571.json
+QUARTER ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json
+RATE ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+Q4 ^6^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+Plan ^1^../sample_data/coll_2/news_0064570.json
+Powell’s ^2^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json
+President ^1^../sample_data/coll_1/news_0064567.json
+Powell ^1^../sample_data/coll_1/news_0064569.json
+Plan. ^1^../sample_data/coll_2/news_0064570.json
+Paul ^1^../sample_data/coll_1/news_0064567.json
+Period ^1^../sample_data/coll_1/news_0064568.json
+Period:
+February- ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Photo ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Per ^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json
+PROVIDES ^1^../sample_data/coll_2/news_0064572.json
+PERIOD ^2^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json
+PHOTO: ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+PERCENT ^1^../sample_data/coll_2/news_0064571.json
+Enhanced ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Gains
+$0.1516
+84.20%
+$0.6021
+83.60%
+Return ^1^../sample_data/coll_2/news_0064570.json
+Income
+$0.0054
+6.30%
+$0.0333
+7.70%
+Net ^1^../sample_data/coll_2/news_0064570.json
+Kewaunee ^1^../sample_data/coll_2/news_0064571.json
+NAV ^46^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+OF ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+OPENINGS
+* ^1^../sample_data/coll_2/news_0064572.json
+Opportunities ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Other ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Of ^1^../sample_data/coll_2/news_0064570.json
+ON ^1^../sample_data/coll_2/news_0064572.json
+Nicholls/File ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+November ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+NEW ^1^../sample_data/coll_2/news_0064572.json
+NET ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+MEUR ^1^../sample_data/coll_1/news_0064568.json
+Management^1^../sample_data/coll_2/news_0064570.json
+Managing ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+MILLION ^4^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json
+Lawson
+ ^1^../sample_data/coll_1/news_0064567.json
+London, ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Long-Term ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Liam ^1^../sample_data/coll_1/news_0064567.json
+Lang ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+LEGISLATION.​ ^1^../sample_data/coll_2/news_0064572.json
+It ^1^../sample_data/coll_2/news_0064570.json
+Jerome ^1^../sample_data/coll_1/news_0064569.json
+Julie ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+KEWAUNEE ^1^../sample_data/coll_2/news_0064571.json
+Joachim ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Jan ^1^../sample_data/coll_1/news_0064568.json
+January ^45^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+JANUARY ^2^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json
+Income
+$0.0494
+34.10%
+$0.3932
+45.20%
+Net ^1^../sample_data/coll_2/news_0064570.json
+Industry ^3^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Investment ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Income ^7^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Income
+$0.0108
+10.00%
+$0.0216
+10.00%
+Net ^1^../sample_data/coll_2/news_0064570.json
+Income
+$0.0284
+15.80%
+$0.1102
+15.30%
+Net ^1^../sample_data/coll_2/news_0064570.json
+Income
+$0.0079
+8.70%
+$0.0153
+8.40%
+Net ^1^../sample_data/coll_2/news_0064570.json
+Income
+$0.0057
+5.10%
+$0.0116
+5.20%
+Net ^1^../sample_data/coll_2/news_0064570.json
+INTRODUCES ^1^../sample_data/coll_2/news_0064572.json
+Income
+$0.0031
+4.00%
+$0.0063
+4.10%
+Net ^1^../sample_data/coll_2/news_0064570.json
+Income
+$0.0048
+5.70%
+$0.0227
+6.70%
+Net ^1^../sample_data/coll_2/news_0064570.json
+Income
+$0.0052
+6.90%
+$0.0182
+6.00%
+Net ^1^../sample_data/coll_2/news_0064570.json
+Income
+$0.0000
+0.00%
+$0.0000
+0.00%
+Net ^1^../sample_data/coll_2/news_0064570.json
+Hours ^1^../sample_data/coll_1/news_0064569.json
+II ^1^../sample_data/coll_2/news_0064570.json
+I/B/E/S
+* ^1^../sample_data/coll_2/news_0064572.json
+Hugh ^1^../sample_data/coll_1/news_0064567.json
+Global ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Holdings ^1^../sample_data/coll_2/news_0064572.json
+Germany’s ^1^../sample_data/coll_1/news_0064567.json
+Germany's ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+German ^4^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Feb. ^1^../sample_data/coll_2/news_0064570.json
+Gains
+$0.0000
+0.00%
+$0.0000
+0.00%
+Net ^8^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Gains
+$0.0000
+0.00%
+$0.0077
+1.10%
+Net ^1^../sample_data/coll_2/news_0064570.json
+Gains
+$0.0810
+93.70%
+$0.1957
+45.30%
+Return ^1^../sample_data/coll_2/news_0064570.json
+Gains
+$0.0956
+65.90%
+$0.4768
+54.80%
+Return ^1^../sample_data/coll_2/news_0064570.json
+Gains
+$0.0131
+14.90%
+$0.0131
+7.50%
+Net ^1^../sample_data/coll_2/news_0064570.json
+Gains
+$0.0744
+85.10%
+$0.1619
+92.50%
+Return ^1^../sample_data/coll_2/news_0064570.json
+Gains
+$0.0000
+0.00%
+$0.0000
+0.00%
+Return ^6^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Funds ^1^../sample_data/coll_2/news_0064570.json
+GAAP ^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+Further ^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json
+Funds' ^1^../sample_data/coll_2/news_0064570.json
+Francesca’s ^1^../sample_data/coll_2/news_0064572.json
+Fund ^13^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Fund, ^1^../sample_data/coll_2/news_0064570.json
+Fund's ^11^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Frequency:
+Monthly
+Fiscal ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+For ^1^../sample_data/coll_1/news_0064568.json
+Fox ^1^../sample_data/coll_1/news_0064567.json
+Form ^1^../sample_data/coll_2/news_0064570.json
+Fifty ^1^../sample_data/coll_1/news_0064567.json
+Fiscal ^20^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Fed ^1^../sample_data/coll_1/news_0064569.json
+February ^4^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+FISCAL ^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+Fairbairn ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Feb ^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json
+FRANCESCA’S® ^1^../sample_data/coll_2/news_0064572.json
+FY ^1^../sample_data/coll_2/news_0064572.json
+FOR ^3^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json
+FOURTH ^1^../sample_data/coll_2/news_0064572.json
+European ^3^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json
+Euros ^1^../sample_data/coll_1/news_0064568.json
+Exchange ^1^../sample_data/coll_2/news_0064570.json
+Eric ^1^../sample_data/coll_1/news_0064567.json
+Estimated ^1^../sample_data/coll_2/news_0064570.json
+Equity ^5^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+COMPANY ^1^../sample_data/coll_2/news_0064572.json
+Current ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Earnings ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json
+Eikon: ^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json
+End:
+December
+Source
+Current ^5^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+End:
+September
+Source
+Current ^1^../sample_data/coll_2/news_0064570.json
+End:
+October
+Source
+Current ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+End:
+August
+Source
+Current ^1^../sample_data/coll_2/news_0064570.json
+Eight ^1^../sample_data/coll_1/news_0064567.json
+Editing ^1^../sample_data/coll_1/news_0064567.json
+Eaton ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+ETJ)
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+EU ^3^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+EVT)
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+EXPECTS ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+Each ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+EXG)
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+EU, ^1^../sample_data/coll_1/news_0064567.json
+EUR ^1^../sample_data/coll_1/news_0064568.json
+ETW)
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+ETY)
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+ETV)
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+ETO)
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+Distributions ^20^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+EOI)
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+ESTIMATED ^1^../sample_data/coll_2/news_0064572.json
+ETB)
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+EOS)
+Distribution ^1^../sample_data/coll_2/news_0064570.json
+EARNINGS ^4^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json
+EFFECTIVE ^1^../sample_data/coll_2/news_0064572.json
+Dividend ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Downing ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Diversified ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+DISCLOSURE ^1^../sample_data/coll_2/news_0064570.json
+Distribution
+% ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Distribution
+Cumulative ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Distributions^1^../sample_data/coll_2/news_0064570.json
+Dec ^1^../sample_data/coll_1/news_0064568.json
+Director ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Damocles ^1^../sample_data/coll_1/news_0064567.json
+DECREASE ^1^../sample_data/coll_2/news_0064572.json
+DIHK ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+DECEMBER ^2^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json
+DECLINE ^1^../sample_data/coll_2/news_0064572.json
+Closed-End ^1^../sample_data/coll_2/news_0064570.json
+Common ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Corp:
+* ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json
+Cumulative ^12^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Confederation ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Commission. ^1^../sample_data/coll_2/news_0064570.json
+Commerce ^1^../sample_data/coll_1/news_0064567.json
+Chairman ^1^../sample_data/coll_1/news_0064569.json
+Chambers ^1^../sample_data/coll_1/news_0064567.json
+Carrefour ^2^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064569.json
+Carrel; ^1^../sample_data/coll_1/news_0064567.json
+Capital ^40^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Carolyn ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+COMPARABLE ^1^../sample_data/coll_2/news_0064572.json
+: ^1^../sample_data/coll_2/news_0064570.json
+Board ^1^../sample_data/coll_2/news_0064570.json
+Britain’s ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Business ^1^../sample_data/coll_1/news_0064567.json
+Buy-Write ^3^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+British ^4^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Britain ^3^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Brexit, ^1^../sample_data/coll_1/news_0064567.json
+Brexit. ^1^../sample_data/coll_1/news_0064567.json
+Brexit ^4^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+Average ^1^../sample_data/coll_2/news_0064570.json
+BOSTON, ^1^../sample_data/coll_2/news_0064570.json
+BRIEF-Kewaunee ^1^../sample_data/coll_2/news_0064571.json
+BRIEF-Strax ^1^../sample_data/coll_1/news_0064568.json
+BOUTIQUE ^1^../sample_data/coll_2/news_0064572.json
+BRIEF-Francesca’s ^1^../sample_data/coll_2/news_0064572.json
+BDI ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+BERLIN ^1^../sample_data/coll_1/news_0064567.json
+BASED ^1^../sample_data/coll_2/news_0064572.json
+Ab ^1^../sample_data/coll_1/news_0064568.json
+Ago ^1^../sample_data/coll_1/news_0064569.json
+Amount ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+Ab:
+* ^1^../sample_data/coll_1/news_0064568.json
+APPROXIMATELY ^1^../sample_data/coll_2/news_0064572.json
+AMOUNTED ^2^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json
+AND ^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+A ^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+2
+9.38%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+3
+3.72%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+4
+0.52%
+Eaton ^1^../sample_data/coll_2/news_0064570.json
+4
+0.73%
+Eaton ^1^../sample_data/coll_2/news_0064570.json
+4
+2.35%
+1 ^1^../sample_data/coll_2/news_0064570.json
+5-year ^11^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+900 ^1^../sample_data/coll_1/news_0064567.json
+4
+2.96%
+Eaton ^1^../sample_data/coll_2/news_0064570.json
+4
+2.00%
+Eaton ^1^../sample_data/coll_2/news_0064570.json
+4
+2.21%
+Eaton ^1^../sample_data/coll_2/news_0064570.json
+4
+2.08%
+Eaton ^1^../sample_data/coll_2/news_0064570.json
+4
+0.76%
+Eaton ^1^../sample_data/coll_2/news_0064570.json
+4
+0.75%
+Eaton ^1^../sample_data/coll_2/news_0064570.json
+4
+0.66%
+Eaton ^1^../sample_data/coll_2/news_0064570.json
+31, ^47^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json
+36 ^1^../sample_data/coll_1/news_0064567.json
+3
+7.73%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+31 ^1^../sample_data/coll_1/news_0064568.json
+3
+6.49%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+3
+7.68%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+3
+5.93%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+25.7 ^1^../sample_data/coll_2/news_0064571.json
+3
+10.64%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+3
+2.00%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+3
+13.77%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+28, ^2^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+3
+1.03%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+3
+1.22%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+27 ^4^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064567.json
+26% ^1^../sample_data/coll_2/news_0064572.json
+2018
+including ^1^../sample_data/coll_2/news_0064570.json
+2018 ^44^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+2018, ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064570.json
+2018
+Distribution ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+2018
+View ^1^../sample_data/coll_2/news_0064570.json
+2017. ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+2018
+2 ^1^../sample_data/coll_2/news_0064570.json
+2018
+3 ^1^../sample_data/coll_2/news_0064570.json
+2017, ^2^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json
+2017 ^8^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_1/news_0064568.json
+1
+12.20%
+Annualized ^1^../sample_data/coll_2/news_0064570.json
+12 ^2^../sample_data/coll_1/news_0064569.json^../sample_data/coll_1/news_0064567.json
+2
+7.11%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+2
+8.33%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+2
+8.75%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+2
+9.15%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+2
+9.01%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+2
+8.02%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+2
+7.90%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+2
+6.29%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+2
+6.63%
+Cumulative ^1^../sample_data/coll_2/news_0064570.json
+15%​
+* ^1^../sample_data/coll_2/news_0064572.json
+13, ^2^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+1 ^3^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json
+100.6​
+* ^1^../sample_data/coll_1/news_0064568.json
+1099-DIV ^1^../sample_data/coll_2/news_0064570.json
+10 ^1^../sample_data/coll_1/news_0064567.json
+1
+15.02%
+Annualized ^1^../sample_data/coll_2/news_0064570.json
+1
+9.40%
+Annualized ^1^../sample_data/coll_2/news_0064570.json
+1
+8.88%
+Annualized ^1^../sample_data/coll_2/news_0064570.json
+1
+6.78%
+Annualized ^1^../sample_data/coll_2/news_0064570.json
+1
+12.67%
+Annualized ^1^../sample_data/coll_2/news_0064570.json
+1
+13.10%
+Annualized ^1^../sample_data/coll_2/news_0064570.json
+$137.2 ^1^../sample_data/coll_2/news_0064572.json
+- ^10^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json^../sample_data/coll_1/news_0064567.json
+1
+11.31%
+Annualized ^1^../sample_data/coll_2/news_0064570.json
+1
+11.92%
+Annualized ^1^../sample_data/coll_2/news_0064570.json
+0.03 ^2^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064568.json
+1
+10.09%
+Annualized ^1^../sample_data/coll_2/news_0064570.json
+/PRNewswire/ ^1^../sample_data/coll_2/news_0064570.json
+-- ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064570.json
+(NAV) ^1^../sample_data/coll_2/news_0064570.json
+(each ^1^../sample_data/coll_2/news_0064570.json
+* ^6^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_2/news_0064571.json
+(Plan) ^1^../sample_data/coll_2/news_0064570.json
+(Reuters) ^4^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064567.json
+(NYSE: ^10^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json^../sample_data/coll_2/news_0064570.json
+$38.19 ^1^../sample_data/coll_2/news_0064571.json
+(German) ^1^../sample_data/coll_1/news_0064567.json
+$138.5 ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+$0.31 ^1^../sample_data/coll_2/news_0064571.json
+$0.39 ^1^../sample_data/coll_2/news_0064572.json
+$0.43 ^1^../sample_data/coll_2/news_0064572.json
+$0.11 ^1^../sample_data/coll_2/news_0064572.json
+$0.20, ^1^../sample_data/coll_2/news_0064572.json
+$0.31^1^../sample_data/coll_2/news_0064571.json
+$0.07 ^2^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064572.json
+$0.11^1^../sample_data/coll_2/news_0064572.json
+"income." ^1^../sample_data/coll_2/news_0064570.json
+"yield" ^1^../sample_data/coll_2/news_0064570.json
+"Fund"). ^1^../sample_data/coll_2/news_0064570.json

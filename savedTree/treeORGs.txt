@@ -1,0 +1,16 @@
+holdings corp^1^../sample_data/coll_2/news_0064572.json
+reuters^4^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064567.json
+thomson reuters^1^../sample_data/coll_2/news_0064572.json
+u.s. securities and exchange commission^1^../sample_data/coll_2/news_0064570.json
+solvay^1^../sample_data/coll_1/news_0064569.json
+kewaunee scientific corp^1^../sample_data/coll_2/news_0064571.json
+dihk chambers of industry and commerce^1^../sample_data/coll_1/news_0064567.json
+eikon^3^../sample_data/coll_2/news_0064572.json^../sample_data/coll_2/news_0064571.json^../sample_data/coll_1/news_0064568.json
+fed^1^../sample_data/coll_1/news_0064569.json
+fund^1^../sample_data/coll_2/news_0064570.json
+eu^2^../sample_data/coll_1/news_0064568.json^../sample_data/coll_1/news_0064567.json
+eaton vance^1^../sample_data/coll_2/news_0064570.json
+confederation of british industry^1^../sample_data/coll_1/news_0064567.json
+board of trustees^1^../sample_data/coll_2/news_0064570.json
+carrefour^1^../sample_data/coll_1/news_0064569.json
+bdi^1^../sample_data/coll_1/news_0064567.json
