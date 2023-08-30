@@ -117,8 +117,8 @@ void documentParser::process(const string& fileName)
     for (auto &l : locations)
     {
         string location(l["name"].GetString());
-//        Porter2Stemmer::trim(location);
-//        Porter2Stemmer::stem(location);
+        Porter2Stemmer::trim(location);
+        Porter2Stemmer::stem(location);
         documentKEYWORD.push_back(location);
     }
 
@@ -136,8 +136,8 @@ void documentParser::getTerms(const char* str)
         if (str[i] == ' ' || i == (len - 1))
         {
             word += str[i];
-//            Porter2Stemmer::trim(word);
-//            Porter2Stemmer::stem(word);
+            Porter2Stemmer::trim(word);
+            Porter2Stemmer::stem(word);
             if (!isStopWord(word) && word.size() > 0)
             {
                 documentKEYWORD.push_back(word);
@@ -167,8 +167,8 @@ bool documentParser::isStopWord(const string& word)
         while (!file.eof())
         {
             getline(file, stopWord, '\n');
-//            Porter2Stemmer::trim(stopWord);
-//            Porter2Stemmer::stem(stopWord);
+            Porter2Stemmer::trim(stopWord);
+            Porter2Stemmer::stem(stopWord);
             stopList.push_back(stopWord);
         }
         file.close();
