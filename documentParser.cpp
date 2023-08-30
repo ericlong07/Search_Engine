@@ -103,7 +103,10 @@ void documentParser::process(const string& fileName)
     getTerms(title);
     getTerms(text);
 
-    if (author != "") { documentPERSON.push_back(author); }
+    if (strlen(author) > 0)
+    {
+        documentPERSON.push_back(author);
+    }
     for (auto &p : persons)
     {
         string person(p["name"].GetString());

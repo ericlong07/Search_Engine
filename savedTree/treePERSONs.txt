@@ -1,8 +1,8 @@
-powell^1^../sample_data/coll_1/news_0064569.json
-schweitzer^1^../sample_data/coll_1/news_0064567.json
-strax ab^1^../sample_data/coll_1/news_0064568.json
 francesca^1^../sample_data/coll_2/news_0064572.json
 joachim lang^1^../sample_data/coll_1/news_0064567.json
+schweitzer^1^../sample_data/coll_1/news_0064567.json
+strax ab^1^../sample_data/coll_1/news_0064568.json
+powell^1^../sample_data/coll_1/news_0064569.json
 jerome powell^1^../sample_data/coll_1/news_0064569.json
 eaton vance^1^../sample_data/coll_2/news_0064570.json
 eric schweitzer^1^../sample_data/coll_1/news_0064567.json
